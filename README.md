@@ -3,7 +3,7 @@
 # Vue Pun
 The only list to include witty puns to your slides, tweet...etc.
 
-## Companies (in alphabetical order)
+## Puns 👇
 
 Pun | Source
 ------------------------ | -------
